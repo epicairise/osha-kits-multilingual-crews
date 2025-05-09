@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Accuform Multilingual Safety Kit",
+    "slug": "accuform-multilingual-safety-kit",
+    "description": "Complete OSHA signage and labels in English, Spanish, and French for compliant, inclusive safety communication.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/accuform-multilingual-kit.jpg",
+    "target_audience_match": "Perfect for safety leads juggling compliance and clarity across multilingual field crews.",
+    "price": "From $149/kit",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "J.J. Keller Multilingual Compliance Kit",
+    "slug": "jj-keller-multilingual-kit",
+    "description": "Essential OSHA materials with training guides, forms, and posters in English and Spanish.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jj-keller-osha-kit.jpg",
+    "target_audience_match": "Ideal for HR teams who want to confidently onboard Spanish-speaking staff without losing sleep over compliance gaps.",
+    "price": "From $199",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Brady Bilingual Safety Starter Kit",
+    "slug": "brady-bilingual-safety-kit",
+    "description": "Bilingual safety tags, lockout signs, and training posters for on-site hazard communication.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/brady-safety-starter.jpg",
+    "target_audience_match": "Great fit for foremen managing busy sites where quick, clear bilingual alerts can’t wait.",
+    "price": "From $129",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Seton Multilingual Emergency Station Kit",
+    "slug": "seton-multilingual-emergency-kit",
+    "description": "First aid and emergency instructions with multilingual visuals and OSHA-compliant documentation.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/seton-emergency-kit.jpg",
+    "target_audience_match": "Designed for high-risk zones where fast, visual-first safety saves lives — regardless of language spoken.",
+    "price": "From $179",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "National Safety Council Bilingual Training Pack",
+    "slug": "nsc-bilingual-training-pack",
+    "description": "Complete training video + handbook set in English and Spanish for crew onboarding.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-bilingual-training.jpg",
+    "target_audience_match": "Best for teams regularly onboarding workers who need OSHA basics in both English and Spanish, fast.",
+    "price": "From $299",
+    "data-link": "pending"
+  }
+]
