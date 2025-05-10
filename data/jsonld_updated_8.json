@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "Best OSHA Safety Kits for Multilingual Crews",
+      "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accuform Multilingual Safety Kit",
+          "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/accuform-multilingual-safety-kit.jpg",
+          "description": "Complete OSHA signage and labels in English, Spanish, and French for compliant, inclusive safety communication.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "J.J. Keller Multilingual Compliance Kit",
+          "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jj-keller-multilingual-kit.jpg",
+          "description": "Essential OSHA materials with training guides, forms, and posters in English and Spanish.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Brady Bilingual Safety Starter Kit",
+          "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/brady-bilingual-safety-kit.jpg",
+          "description": "Bilingual safety tags, lockout signs, and training posters for on-site hazard communication.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Seton Multilingual Emergency Station Kit",
+          "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/seton-multilingual-emergency-kit.jpg",
+          "description": "First aid and emergency instructions with multilingual visuals and OSHA-compliant documentation.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "National Safety Council Bilingual Training Pack",
+          "url": "https://dir.querygap.com/osha-kits-multilingual-crews/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-bilingual-training-pack.jpg",
+          "description": "Complete training video + handbook set in English and Spanish for crew onboarding.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Are OSHA kits available in multiple languages?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, many OSHA-compliant kits now come with multilingual signage, training materials, and documentation to support diverse crews."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What languages are most commonly included in multilingual safety kits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "English and Spanish are the most common, though some kits also include French or visual icons to bridge language gaps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do bilingual kits still meet OSHA standards?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely \u2014 as long as required safety information is clearly communicated, multilingual kits can fully comply with OSHA regulations."
+          }
+        }
+      ]
+    }
+  ]
+}
